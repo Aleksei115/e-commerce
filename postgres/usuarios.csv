@@ -1,0 +1,46 @@
+id_usuario,nombre_usuario,password,nombre,calle,numero,cp,colonia
+USER1000,jgarcia,securepass1,Juan García,Calle Insurgentes Sur,742,03920,Colonia Nápoles
+USER1001,amartinez,password123,Ana Martínez,Calle Tamaulipas,123,06170,Colonia Condesa
+USER1002,rluna,mysecretpass,Ricardo Luna,Avenida Álvaro Obregón,456,06700,Colonia Roma Norte
+USER1003,msanchez,passw0rd,Marta Sánchez,Calle Madero,789,06000,Centro Histórico
+USER1004,fgomez,pass2023,Fernando Gómez,Avenida Chapultepec,101,06500,Colonia Juárez
+USER1005,ccruz,cruzpass1,Carlos Cruz,Calle Durango,202,06700,Colonia Roma Norte
+USER1006,lgutierrez,lgpass123,Laura Gutiérrez,Calle Londres,303,06600,Colonia Juárez
+USER1007,dhernandez,dhpassword,David Hernández,Calle Orizaba,404,06700,Colonia Roma Norte
+USER1008,pdiaz,pdsecure,Patricia Díaz,Avenida Revolución,505,01000,Colonia Tabacalera
+USER1009,jrodriguez,jrpass789,José Rodríguez,Avenida Insurgentes Norte,606,06400,Colonia Juárez
+USER1010,mfernandez,fernandez2024,María Fernández,Avenida Universidad,707,03020,Colonia Narvarte
+USER1011,mmorales,mmpass2023,Marcos Morales,Calle Amsterdam,808,06100,Colonia Hipódromo Condesa
+USER1012,vleon,vleonpass,Valeria León,Calle Regina,909,06000,Centro Histórico
+USER1013,sgarcia,securepass2,Sofía García,Avenida Patriotismo,1010,03730,Colonia San Pedro de los Pinos
+USER1014,ovargas,ovpassword,Oscar Vargas,Calle Querétaro,1111,06760,Colonia Roma Sur
+USER1015,hreyes,hreyespass,Hugo Reyes,Calle Jalapa,1212,06700,Colonia Roma Norte
+USER1016,kflores,kfpass2023,Karen Flores,Calle Nuevo León,1313,06700,Colonia Hipódromo Condesa
+USER1017,nalvarez,na123456,Natalia Álvarez,Calle Sonora,1414,06700,Colonia Condesa
+USER1018,amendoza,amsecure,Alejandro Mendoza,Calle Colima,1515,06700,Colonia Roma Norte
+USER1019,cmartin,cmartinpass,Carolina Martín,Avenida Álvaro Obregón,1616,06700,Colonia Roma Norte
+USER1020,lsoto,lsotopass,Luis Soto,Calle Salamanca,1717,06700,Colonia Roma Norte
+USER1021,pgonzalez,securepass3,Pedro González,Calle Puebla,1818,06700,Colonia Roma Norte
+USER1022,rmartinez,passcode345,Rosa Martínez,Avenida Cuauhtémoc,1919,06700,Colonia Roma Norte
+USER1023,emendez,securepass4,Enrique Méndez,Calle Chihuahua,2020,06700,Colonia Roma Norte
+USER1024,adiaz,adiazpass1,Ana Díaz,Calle Baja California,2121,06760,Colonia Roma Sur
+USER1025,rcastro,rcastropass,Ricardo Castro,Calle Mérida,2222,06760,Colonia Roma Sur
+USER1026,vgomez,securepass5,Verónica Gómez,Calle Zacatecas,2323,06700,Colonia Roma Norte
+USER1027,fgonzalez,fgonzalezpass1,Fernanda González,Calle Oaxaca,2424,06700,Colonia Roma Norte
+USER1028,rgarcia,rgarciapass1,Rodrigo García,Avenida Sonora,2525,06700,Colonia Roma Norte
+USER1029,acastillo,acastillopass,Alejandra Castillo,Calle Medellín,2626,06700,Colonia Roma Norte
+USER1030,ccastro,securepass6,Claudia Castro,Calle Mérida,2727,06700,Colonia Roma Norte
+USER1031,fsanchez,fsanchezpass1,Fabián Sánchez,Avenida Cuauhtémoc,2828,06700,Colonia Roma Norte
+USER1032,mmendez,securepass7,Mónica Méndez,Calle Chihuahua,2929,06700,Colonia Roma Norte
+USER1033,sgomez,sgomezpass1,Samuel Gómez,Calle Colima,3030,06700,Colonia Roma Norte
+USER1034,lmartinez,securepass8,Luis Martínez,Calle Tonalá,3131,06700,Colonia Roma Norte
+USER1035,jrojas,securepass9,Juan Rojas,Calle Puebla,3232,06700,Colonia Roma Norte
+USER1036,asalazar,securepass10,Ana Salazar,Calle Mérida,3333,06700,Colonia Roma Norte
+USER1037,jlopez,securepass11,Javier López,Avenida Cuauhtémoc,3434,06700,Colonia Roma Norte
+USER1038,cestrada,securepass12,Carlos Estrada,Calle Zacatecas,3535,06700,Colonia Roma Norte
+USER1039,mmoreno,securepass13,Mariana Moreno,Calle Mérida,3636,06700,Colonia Roma Norte
+USER1040,rgonzalez,securepass14,Raúl González,Calle Mérida,3737,06700,Colonia Roma Norte
+USER1041,jmartinez,securepass15,José Martínez,Calle Orizaba,3838,06700,Colonia Roma Norte
+USER1042,rgutierrez,securepass16,Rosa Gutiérrez,Calle Tonalá,3939,06700,Colonia Roma Norte
+USER1043,mperez,securepass17,Miguel Pérez,Calle Chihuahua,4040,06700,Colonia Roma Norte
+USER1044,rsanchez,securepass18,Ramón Sánchez,Calle Mérida,4141,06700,Colonia Roma Norte

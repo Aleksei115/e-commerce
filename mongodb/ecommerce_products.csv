@@ -1,0 +1,397 @@
+id_producto,nombre,precio,marca,pais_fabricacion,categoria,puntuacion_media,cantidad
+PROD1000,Sony Controller,959.83,Sony,India,Videojuegos,4.52,259
+PROD1001,Sony Controller,787.3,Sony,South Korea,Videojuegos,4.38,359
+PROD1002,Sony Console,109.5,Sony,India,Videojuegos,3.84,171
+PROD1003,Sony Game,836.99,Sony,India,Videojuegos,1.24,333
+PROD1004,Sony Headset,826.28,Sony,Japan,Videojuegos,1.47,354
+PROD1005,Sony Headset,14.12,Sony,Germany,Videojuegos,3.55,233
+PROD1006,Sony VR Headset,642.01,Sony,South Korea,Videojuegos,1.25,458
+PROD1007,Sony Controller,424.27,Sony,Japan,Videojuegos,1.34,226
+PROD1008,Sony VR Headset,757.55,Sony,USA,Videojuegos,2.56,196
+PROD1009,Sony Headset,420.95,Sony,Japan,Videojuegos,1.98,309
+PROD1010,Sony VR Headset,52.8,Sony,USA,Videojuegos,2.67,362
+PROD1011,Sony Console,691.79,Sony,Japan,Videojuegos,3.37,116
+PROD1012,Sony Controller,299.47,Sony,South Korea,Videojuegos,1.45,160
+PROD1013,Sony Headset,341.2,Sony,India,Videojuegos,3.05,293
+PROD1014,Microsoft Console,638.46,Microsoft,China,Videojuegos,4.64,463
+PROD1015,Microsoft Console,570.46,Microsoft,China,Videojuegos,4.57,373
+PROD1016,Microsoft Controller,115.21,Microsoft,China,Videojuegos,2.59,274
+PROD1017,Microsoft Console,639.71,Microsoft,India,Videojuegos,1.2,225
+PROD1018,Microsoft VR Headset,726.48,Microsoft,China,Videojuegos,2.69,175
+PROD1019,Microsoft VR Headset,887.05,Microsoft,Germany,Videojuegos,4.22,314
+PROD1020,Microsoft Game,270.73,Microsoft,Germany,Videojuegos,3.13,230
+PROD1021,Microsoft Game,360.33,Microsoft,USA,Videojuegos,4.77,164
+PROD1022,Nintendo Console,314.41,Nintendo,Germany,Videojuegos,2.29,180
+PROD1023,Nintendo Console,320.02,Nintendo,Japan,Videojuegos,2.42,258
+PROD1024,Nintendo Headset,219.36,Nintendo,India,Videojuegos,4.32,301
+PROD1025,Nintendo Console,70.63,Nintendo,China,Videojuegos,4.16,410
+PROD1026,Nintendo Controller,718.51,Nintendo,India,Videojuegos,3.97,112
+PROD1027,Nintendo Headset,750.78,Nintendo,South Korea,Videojuegos,4.31,324
+PROD1028,Nintendo Game,155.54,Nintendo,China,Videojuegos,1.47,323
+PROD1029,Nintendo Controller,342.42,Nintendo,India,Videojuegos,4.78,229
+PROD1030,Nintendo Game,378.84,Nintendo,Japan,Videojuegos,1.84,438
+PROD1031,Ubisoft Controller,47.55,Ubisoft,India,Videojuegos,2.4,256
+PROD1032,Ubisoft Controller,299.05,Ubisoft,South Korea,Videojuegos,2.39,156
+PROD1033,Ubisoft Game,123.19,Ubisoft,China,Videojuegos,4.5,412
+PROD1034,Ubisoft Game,830.0,Ubisoft,India,Videojuegos,2.52,261
+PROD1035,Ubisoft Headset,428.77,Ubisoft,Germany,Videojuegos,4.27,250
+PROD1036,Ubisoft Controller,430.02,Ubisoft,China,Videojuegos,3.01,135
+PROD1037,Ubisoft Game,353.22,Ubisoft,USA,Videojuegos,1.45,101
+PROD1038,Ubisoft Console,573.72,Ubisoft,South Korea,Videojuegos,4.42,498
+PROD1039,Ubisoft VR Headset,877.31,Ubisoft,Japan,Videojuegos,1.51,100
+PROD1040,Ubisoft Headset,168.09,Ubisoft,South Korea,Videojuegos,2.21,326
+PROD1041,Ubisoft Controller,975.03,Ubisoft,China,Videojuegos,1.85,107
+PROD1042,Ubisoft VR Headset,31.91,Ubisoft,Japan,Videojuegos,4.64,407
+PROD1043,Ubisoft Console,617.95,Ubisoft,South Korea,Videojuegos,4.71,409
+PROD1044,Ubisoft VR Headset,314.51,Ubisoft,Germany,Videojuegos,3.88,361
+PROD1045,Ubisoft Game,827.06,Ubisoft,India,Videojuegos,1.26,161
+PROD1046,EA VR Headset,425.53,EA,Germany,Videojuegos,1.56,145
+PROD1047,EA Controller,506.3,EA,China,Videojuegos,1.79,304
+PROD1048,EA Headset,305.71,EA,USA,Videojuegos,1.36,475
+PROD1049,EA Console,517.15,EA,Germany,Videojuegos,4.27,203
+PROD1050,EA Headset,849.79,EA,Japan,Videojuegos,2.41,145
+PROD1051,EA Controller,929.93,EA,China,Videojuegos,1.42,160
+PROD1052,EA Headset,180.45,EA,USA,Videojuegos,4.58,381
+PROD1053,EA Headset,470.85,EA,South Korea,Videojuegos,4.32,410
+PROD1054,EA Controller,570.25,EA,USA,Videojuegos,1.01,389
+PROD1055,EA Console,245.56,EA,China,Videojuegos,2.9,378
+PROD1056,EA Console,102.98,EA,China,Videojuegos,1.91,435
+PROD1057,EA Headset,756.31,EA,India,Videojuegos,3.27,271
+PROD1058,Apple Charger,486.03,Apple,Germany,Telefonía,1.55,253
+PROD1059,Apple Charger,618.82,Apple,Japan,Telefonía,2.0,106
+PROD1060,Apple Smartwatch,898.18,Apple,China,Telefonía,2.34,408
+PROD1061,Apple Earbuds,664.93,Apple,Japan,Telefonía,1.23,290
+PROD1062,Apple Smartwatch,949.5,Apple,China,Telefonía,3.29,400
+PROD1063,Apple Earbuds,748.09,Apple,India,Telefonía,4.12,136
+PROD1064,Apple Charger,366.8,Apple,India,Telefonía,3.11,309
+PROD1065,Apple Earbuds,746.32,Apple,China,Telefonía,2.13,174
+PROD1066,Apple Earbuds,649.98,Apple,China,Telefonía,4.68,155
+PROD1067,Samsung Charger,473.91,Samsung,China,Telefonía,2.09,401
+PROD1068,Samsung Tablet,166.43,Samsung,Japan,Telefonía,1.09,459
+PROD1069,Samsung Tablet,993.38,Samsung,India,Telefonía,1.16,187
+PROD1070,Samsung Tablet,137.61,Samsung,India,Telefonía,2.74,189
+PROD1071,Samsung Charger,98.47,Samsung,USA,Telefonía,1.51,448
+PROD1072,Samsung Tablet,190.16,Samsung,Japan,Telefonía,2.2,476
+PROD1073,Samsung Smartphone,276.24,Samsung,China,Telefonía,1.19,121
+PROD1074,Samsung Smartwatch,841.41,Samsung,South Korea,Telefonía,1.49,209
+PROD1075,Samsung Earbuds,664.16,Samsung,Germany,Telefonía,4.99,224
+PROD1076,Samsung Smartwatch,624.72,Samsung,Germany,Telefonía,1.08,339
+PROD1077,Samsung Smartwatch,459.35,Samsung,USA,Telefonía,2.91,418
+PROD1078,Huawei Earbuds,33.97,Huawei,USA,Telefonía,2.07,186
+PROD1079,Huawei Earbuds,460.55,Huawei,Japan,Telefonía,2.75,463
+PROD1080,Huawei Tablet,544.44,Huawei,USA,Telefonía,3.38,375
+PROD1081,Huawei Tablet,384.02,Huawei,South Korea,Telefonía,3.42,260
+PROD1082,Huawei Earbuds,408.57,Huawei,USA,Telefonía,2.34,213
+PROD1083,Huawei Tablet,883.44,Huawei,China,Telefonía,1.64,479
+PROD1084,Huawei Smartwatch,444.9,Huawei,India,Telefonía,3.85,287
+PROD1085,Huawei Charger,86.04,Huawei,Japan,Telefonía,3.39,347
+PROD1086,Huawei Tablet,207.91,Huawei,India,Telefonía,2.51,389
+PROD1087,Xiaomi Earbuds,168.59,Xiaomi,India,Telefonía,3.63,451
+PROD1088,Xiaomi Smartphone,846.3,Xiaomi,USA,Telefonía,2.88,401
+PROD1089,Xiaomi Smartphone,935.68,Xiaomi,Japan,Telefonía,1.89,158
+PROD1090,Xiaomi Smartphone,63.9,Xiaomi,India,Telefonía,2.02,123
+PROD1091,Xiaomi Smartphone,995.84,Xiaomi,China,Telefonía,2.35,446
+PROD1092,Xiaomi Tablet,908.3,Xiaomi,China,Telefonía,4.02,446
+PROD1093,Xiaomi Smartwatch,788.44,Xiaomi,Germany,Telefonía,2.7,172
+PROD1094,Xiaomi Smartphone,628.52,Xiaomi,South Korea,Telefonía,4.24,107
+PROD1095,Xiaomi Earbuds,525.08,Xiaomi,China,Telefonía,2.78,329
+PROD1096,Xiaomi Charger,390.98,Xiaomi,Germany,Telefonía,2.65,461
+PROD1097,Xiaomi Smartphone,687.69,Xiaomi,South Korea,Telefonía,4.19,208
+PROD1098,Xiaomi Smartphone,222.4,Xiaomi,USA,Telefonía,1.88,345
+PROD1099,Xiaomi Tablet,91.54,Xiaomi,Japan,Telefonía,1.21,290
+PROD1100,Xiaomi Smartphone,524.52,Xiaomi,USA,Telefonía,4.24,262
+PROD1101,Nokia Smartphone,906.05,Nokia,India,Telefonía,1.54,339
+PROD1102,Nokia Charger,125.88,Nokia,Japan,Telefonía,2.91,116
+PROD1103,Nokia Smartwatch,101.02,Nokia,South Korea,Telefonía,3.11,187
+PROD1104,Nokia Earbuds,314.45,Nokia,India,Telefonía,4.68,155
+PROD1105,Nokia Charger,97.75,Nokia,Japan,Telefonía,1.37,122
+PROD1106,Nokia Charger,411.01,Nokia,Japan,Telefonía,1.15,119
+PROD1107,Nokia Earbuds,883.64,Nokia,USA,Telefonía,3.83,390
+PROD1108,Nokia Charger,775.89,Nokia,South Korea,Telefonía,3.07,384
+PROD1109,Nokia Earbuds,469.28,Nokia,China,Telefonía,2.18,244
+PROD1110,Nokia Smartphone,147.8,Nokia,Germany,Telefonía,3.8,158
+PROD1111,Nokia Smartwatch,251.53,Nokia,China,Telefonía,4.17,205
+PROD1112,Optimum Nutrition BCAA,372.4,Optimum Nutrition,China,Suplementos alimenticios,1.05,210
+PROD1113,Optimum Nutrition Creatine,598.08,Optimum Nutrition,USA,Suplementos alimenticios,1.65,244
+PROD1114,Optimum Nutrition Creatine,176.44,Optimum Nutrition,India,Suplementos alimenticios,2.67,274
+PROD1115,Optimum Nutrition Creatine,991.7,Optimum Nutrition,Japan,Suplementos alimenticios,3.07,287
+PROD1116,Optimum Nutrition Pre-Workout,445.27,Optimum Nutrition,China,Suplementos alimenticios,1.43,138
+PROD1117,Optimum Nutrition BCAA,475.31,Optimum Nutrition,India,Suplementos alimenticios,2.24,458
+PROD1118,Optimum Nutrition BCAA,845.42,Optimum Nutrition,USA,Suplementos alimenticios,4.26,210
+PROD1119,Optimum Nutrition Pre-Workout,942.92,Optimum Nutrition,India,Suplementos alimenticios,1.09,156
+PROD1120,Optimum Nutrition Vitamins,453.51,Optimum Nutrition,Japan,Suplementos alimenticios,1.05,364
+PROD1121,Optimum Nutrition Protein Powder,415.02,Optimum Nutrition,South Korea,Suplementos alimenticios,4.41,418
+PROD1122,Optimum Nutrition Vitamins,293.28,Optimum Nutrition,USA,Suplementos alimenticios,2.52,256
+PROD1123,Optimum Nutrition Pre-Workout,179.89,Optimum Nutrition,Japan,Suplementos alimenticios,4.47,303
+PROD1124,Optimum Nutrition Pre-Workout,562.61,Optimum Nutrition,Japan,Suplementos alimenticios,2.98,183
+PROD1125,Optimum Nutrition Vitamins,566.03,Optimum Nutrition,South Korea,Suplementos alimenticios,3.83,304
+PROD1126,Optimum Nutrition Creatine,550.07,Optimum Nutrition,South Korea,Suplementos alimenticios,2.76,466
+PROD1127,MuscleTech Creatine,757.66,MuscleTech,Japan,Suplementos alimenticios,3.34,400
+PROD1128,MuscleTech BCAA,483.99,MuscleTech,India,Suplementos alimenticios,1.63,340
+PROD1129,MuscleTech Creatine,812.64,MuscleTech,Japan,Suplementos alimenticios,3.03,476
+PROD1130,MuscleTech Pre-Workout,927.5,MuscleTech,India,Suplementos alimenticios,2.21,321
+PROD1131,MuscleTech BCAA,413.84,MuscleTech,USA,Suplementos alimenticios,4.95,106
+PROD1132,MuscleTech BCAA,637.73,MuscleTech,USA,Suplementos alimenticios,3.69,140
+PROD1133,MuscleTech Creatine,140.91,MuscleTech,USA,Suplementos alimenticios,1.95,176
+PROD1134,MuscleTech Vitamins,293.23,MuscleTech,Japan,Suplementos alimenticios,3.81,312
+PROD1135,MuscleTech Protein Powder,180.96,MuscleTech,India,Suplementos alimenticios,2.95,395
+PROD1136,MuscleTech Creatine,525.38,MuscleTech,USA,Suplementos alimenticios,4.52,320
+PROD1137,Dymatize Creatine,987.05,Dymatize,South Korea,Suplementos alimenticios,3.9,430
+PROD1138,Dymatize BCAA,271.6,Dymatize,USA,Suplementos alimenticios,2.52,462
+PROD1139,Dymatize Pre-Workout,869.52,Dymatize,China,Suplementos alimenticios,2.39,145
+PROD1140,Dymatize Pre-Workout,735.08,Dymatize,South Korea,Suplementos alimenticios,2.14,421
+PROD1141,Dymatize Vitamins,73.17,Dymatize,Japan,Suplementos alimenticios,1.3,154
+PROD1142,Dymatize Protein Powder,316.53,Dymatize,South Korea,Suplementos alimenticios,3.57,136
+PROD1143,Dymatize Creatine,767.68,Dymatize,South Korea,Suplementos alimenticios,3.61,167
+PROD1144,Dymatize BCAA,799.22,Dymatize,Japan,Suplementos alimenticios,3.77,192
+PROD1145,BSN Creatine,752.24,BSN,India,Suplementos alimenticios,2.12,276
+PROD1146,BSN Creatine,805.97,BSN,China,Suplementos alimenticios,2.95,437
+PROD1147,BSN BCAA,183.25,BSN,USA,Suplementos alimenticios,4.19,492
+PROD1148,BSN Creatine,24.11,BSN,Japan,Suplementos alimenticios,2.87,225
+PROD1149,BSN Protein Powder,845.24,BSN,India,Suplementos alimenticios,3.61,172
+PROD1150,BSN Pre-Workout,110.3,BSN,Japan,Suplementos alimenticios,4.38,413
+PROD1151,BSN Vitamins,350.09,BSN,Japan,Suplementos alimenticios,2.28,482
+PROD1152,BSN Pre-Workout,845.36,BSN,Germany,Suplementos alimenticios,1.26,374
+PROD1153,BSN BCAA,516.04,BSN,China,Suplementos alimenticios,1.38,283
+PROD1154,BSN Creatine,33.56,BSN,South Korea,Suplementos alimenticios,4.38,265
+PROD1155,BSN Pre-Workout,591.8,BSN,India,Suplementos alimenticios,3.24,387
+PROD1156,BSN Vitamins,348.92,BSN,India,Suplementos alimenticios,4.04,481
+PROD1157,BSN Pre-Workout,878.34,BSN,Japan,Suplementos alimenticios,3.8,306
+PROD1158,BSN Vitamins,755.64,BSN,India,Suplementos alimenticios,2.15,177
+PROD1159,GNC Creatine,983.5,GNC,India,Suplementos alimenticios,2.29,144
+PROD1160,GNC Vitamins,640.51,GNC,India,Suplementos alimenticios,4.86,167
+PROD1161,GNC Pre-Workout,571.42,GNC,India,Suplementos alimenticios,4.15,283
+PROD1162,GNC Vitamins,950.23,GNC,USA,Suplementos alimenticios,2.3,352
+PROD1163,GNC BCAA,714.82,GNC,China,Suplementos alimenticios,3.5,176
+PROD1164,GNC BCAA,260.79,GNC,Japan,Suplementos alimenticios,3.31,110
+PROD1165,GNC BCAA,513.41,GNC,USA,Suplementos alimenticios,4.79,378
+PROD1166,GNC BCAA,100.6,GNC,China,Suplementos alimenticios,2.1,266
+PROD1167,GNC Vitamins,585.03,GNC,China,Suplementos alimenticios,2.61,291
+PROD1168,GNC Protein Powder,343.79,GNC,Germany,Suplementos alimenticios,1.05,325
+PROD1169,GNC Creatine,755.15,GNC,China,Suplementos alimenticios,4.34,139
+PROD1170,GNC Protein Powder,815.31,GNC,South Korea,Suplementos alimenticios,2.77,487
+PROD1171,GNC Creatine,874.29,GNC,Germany,Suplementos alimenticios,2.7,164
+PROD1172,Nike T-Shirt,149.02,Nike,South Korea,Ropa,1.24,445
+PROD1173,Nike T-Shirt,382.41,Nike,South Korea,Ropa,3.02,483
+PROD1174,Nike Shorts,117.84,Nike,Germany,Ropa,2.29,191
+PROD1175,Nike T-Shirt,47.25,Nike,South Korea,Ropa,4.91,433
+PROD1176,Nike Shorts,974.82,Nike,South Korea,Ropa,2.64,197
+PROD1177,Nike T-Shirt,669.14,Nike,USA,Ropa,3.41,418
+PROD1178,Nike Pants,666.27,Nike,Germany,Ropa,1.47,430
+PROD1179,Nike Pants,343.0,Nike,Germany,Ropa,2.76,207
+PROD1180,Nike Jacket,680.89,Nike,USA,Ropa,2.9,236
+PROD1181,Nike Jacket,732.9,Nike,USA,Ropa,2.91,482
+PROD1182,Nike Sweater,728.17,Nike,USA,Ropa,3.34,385
+PROD1183,Nike Jacket,77.65,Nike,China,Ropa,3.11,237
+PROD1184,Nike Sweater,497.27,Nike,South Korea,Ropa,4.84,304
+PROD1185,Nike Sweater,278.12,Nike,China,Ropa,2.69,347
+PROD1186,Adidas T-Shirt,821.92,Adidas,China,Ropa,2.06,420
+PROD1187,Adidas Shorts,724.99,Adidas,USA,Ropa,4.62,465
+PROD1188,Adidas Pants,467.01,Adidas,India,Ropa,2.22,149
+PROD1189,Adidas Sweater,265.8,Adidas,Japan,Ropa,3.0,143
+PROD1190,Adidas Sweater,271.45,Adidas,Japan,Ropa,2.13,161
+PROD1191,Adidas Shorts,518.55,Adidas,China,Ropa,3.72,421
+PROD1192,Adidas Shorts,676.8,Adidas,Japan,Ropa,2.86,460
+PROD1193,Adidas T-Shirt,972.16,Adidas,India,Ropa,2.23,253
+PROD1194,Adidas Jacket,49.6,Adidas,USA,Ropa,2.08,154
+PROD1195,Adidas Sweater,465.58,Adidas,China,Ropa,3.52,304
+PROD1196,Puma Pants,163.63,Puma,India,Ropa,2.44,259
+PROD1197,Puma Pants,317.05,Puma,Japan,Ropa,3.04,373
+PROD1198,Puma Sweater,113.8,Puma,USA,Ropa,1.91,224
+PROD1199,Puma Shorts,884.74,Puma,Germany,Ropa,2.68,401
+PROD1200,Puma T-Shirt,894.69,Puma,Japan,Ropa,1.27,379
+PROD1201,Puma Jacket,687.78,Puma,Germany,Ropa,3.71,342
+PROD1202,Puma Pants,134.72,Puma,South Korea,Ropa,4.99,230
+PROD1203,Puma Sweater,962.28,Puma,USA,Ropa,1.89,387
+PROD1204,Puma T-Shirt,364.48,Puma,South Korea,Ropa,3.09,448
+PROD1205,Puma Shorts,552.16,Puma,China,Ropa,3.36,454
+PROD1206,Puma Jacket,430.97,Puma,South Korea,Ropa,4.23,302
+PROD1207,Puma Sweater,600.29,Puma,China,Ropa,3.58,153
+PROD1208,Puma Sweater,480.63,Puma,USA,Ropa,1.38,127
+PROD1209,Puma Jacket,618.28,Puma,USA,Ropa,4.25,182
+PROD1210,Puma Shorts,812.31,Puma,South Korea,Ropa,3.17,341
+PROD1211,Under Armour T-Shirt,893.69,Under Armour,Germany,Ropa,2.03,181
+PROD1212,Under Armour T-Shirt,595.87,Under Armour,China,Ropa,4.0,377
+PROD1213,Under Armour Sweater,284.92,Under Armour,India,Ropa,3.69,164
+PROD1214,Under Armour T-Shirt,639.1,Under Armour,India,Ropa,1.88,197
+PROD1215,Under Armour Shorts,133.19,Under Armour,India,Ropa,3.92,463
+PROD1216,Under Armour Sweater,869.19,Under Armour,South Korea,Ropa,3.01,179
+PROD1217,Under Armour Shorts,321.33,Under Armour,India,Ropa,3.55,470
+PROD1218,Under Armour Jacket,284.74,Under Armour,USA,Ropa,4.57,485
+PROD1219,Under Armour T-Shirt,840.82,Under Armour,South Korea,Ropa,1.0,415
+PROD1220,Under Armour T-Shirt,202.52,Under Armour,Germany,Ropa,2.6,108
+PROD1221,H&M Shorts,647.83,H&M,India,Ropa,2.37,476
+PROD1222,H&M Jacket,909.71,H&M,Germany,Ropa,3.71,136
+PROD1223,H&M Jacket,504.89,H&M,South Korea,Ropa,3.54,365
+PROD1224,H&M Sweater,945.89,H&M,Germany,Ropa,1.71,455
+PROD1225,H&M Jacket,695.86,H&M,Germany,Ropa,4.41,160
+PROD1226,H&M Sweater,495.68,H&M,Germany,Ropa,4.47,213
+PROD1227,H&M Sweater,41.25,H&M,South Korea,Ropa,3.65,340
+PROD1228,H&M Pants,591.42,H&M,Germany,Ropa,2.7,268
+PROD1229,H&M T-Shirt,75.85,H&M,USA,Ropa,4.55,308
+PROD1230,H&M T-Shirt,978.19,H&M,South Korea,Ropa,4.1,225
+PROD1231,H&M Pants,436.35,H&M,Japan,Ropa,3.95,121
+PROD1232,H&M Pants,603.5,H&M,USA,Ropa,2.89,101
+PROD1233,H&M T-Shirt,614.24,H&M,South Korea,Ropa,2.39,453
+PROD1234,L'Oréal Serum,690.67,L'Oréal,India,Skin Care,4.95,474
+PROD1235,L'Oréal Sunscreen,702.96,L'Oréal,Germany,Skin Care,2.45,210
+PROD1236,L'Oréal Serum,17.97,L'Oréal,China,Skin Care,4.82,408
+PROD1237,L'Oréal Toner,212.41,L'Oréal,China,Skin Care,1.87,157
+PROD1238,L'Oréal Cleanser,530.3,L'Oréal,India,Skin Care,1.85,353
+PROD1239,L'Oréal Serum,431.01,L'Oréal,South Korea,Skin Care,4.36,357
+PROD1240,L'Oréal Sunscreen,273.93,L'Oréal,India,Skin Care,1.13,470
+PROD1241,L'Oréal Toner,761.55,L'Oréal,Japan,Skin Care,1.17,351
+PROD1242,L'Oréal Sunscreen,817.42,L'Oréal,China,Skin Care,1.9,241
+PROD1243,L'Oréal Serum,880.55,L'Oréal,South Korea,Skin Care,4.1,229
+PROD1244,L'Oréal Cleanser,310.1,L'Oréal,India,Skin Care,1.49,173
+PROD1245,L'Oréal Moisturizer,519.91,L'Oréal,South Korea,Skin Care,1.3,231
+PROD1246,L'Oréal Moisturizer,596.94,L'Oréal,South Korea,Skin Care,2.39,132
+PROD1247,L'Oréal Moisturizer,881.12,L'Oréal,China,Skin Care,3.41,298
+PROD1248,Neutrogena Moisturizer,311.1,Neutrogena,Germany,Skin Care,2.93,139
+PROD1249,Neutrogena Sunscreen,989.88,Neutrogena,Germany,Skin Care,4.93,121
+PROD1250,Neutrogena Toner,716.97,Neutrogena,Japan,Skin Care,4.57,495
+PROD1251,Neutrogena Serum,305.11,Neutrogena,Germany,Skin Care,4.07,122
+PROD1252,Neutrogena Toner,234.95,Neutrogena,USA,Skin Care,2.52,404
+PROD1253,Neutrogena Serum,996.65,Neutrogena,Germany,Skin Care,3.34,393
+PROD1254,Neutrogena Sunscreen,719.54,Neutrogena,USA,Skin Care,1.38,145
+PROD1255,Neutrogena Serum,636.99,Neutrogena,Japan,Skin Care,2.83,118
+PROD1256,Neutrogena Sunscreen,304.44,Neutrogena,Germany,Skin Care,1.52,343
+PROD1257,Neutrogena Moisturizer,129.15,Neutrogena,China,Skin Care,2.36,343
+PROD1258,Neutrogena Sunscreen,302.35,Neutrogena,Japan,Skin Care,1.53,242
+PROD1259,Olay Serum,843.25,Olay,South Korea,Skin Care,4.73,328
+PROD1260,Olay Sunscreen,772.78,Olay,Japan,Skin Care,1.43,491
+PROD1261,Olay Moisturizer,644.53,Olay,Germany,Skin Care,2.01,404
+PROD1262,Olay Serum,72.16,Olay,USA,Skin Care,1.63,369
+PROD1263,Olay Toner,279.89,Olay,China,Skin Care,4.92,308
+PROD1264,Olay Moisturizer,363.69,Olay,South Korea,Skin Care,1.83,442
+PROD1265,Olay Toner,809.74,Olay,China,Skin Care,1.54,174
+PROD1266,Olay Serum,227.89,Olay,India,Skin Care,4.33,331
+PROD1267,Clinique Sunscreen,24.64,Clinique,Japan,Skin Care,1.12,358
+PROD1268,Clinique Serum,601.42,Clinique,India,Skin Care,2.74,381
+PROD1269,Clinique Sunscreen,655.95,Clinique,India,Skin Care,3.57,318
+PROD1270,Clinique Moisturizer,409.11,Clinique,Germany,Skin Care,1.45,385
+PROD1271,Clinique Moisturizer,806.36,Clinique,Germany,Skin Care,3.95,189
+PROD1272,Clinique Moisturizer,357.22,Clinique,Japan,Skin Care,1.45,291
+PROD1273,Clinique Cleanser,435.65,Clinique,Germany,Skin Care,2.27,371
+PROD1274,Clinique Cleanser,950.95,Clinique,USA,Skin Care,3.44,309
+PROD1275,Clinique Cleanser,144.53,Clinique,Japan,Skin Care,1.48,213
+PROD1276,Clinique Serum,83.98,Clinique,South Korea,Skin Care,4.34,280
+PROD1277,Clinique Cleanser,256.49,Clinique,Japan,Skin Care,3.27,201
+PROD1278,Clinique Moisturizer,829.22,Clinique,USA,Skin Care,4.08,165
+PROD1279,Clinique Toner,238.59,Clinique,Japan,Skin Care,4.55,465
+PROD1280,Clinique Toner,302.23,Clinique,Japan,Skin Care,1.35,261
+PROD1281,Nivea Serum,809.43,Nivea,USA,Skin Care,4.2,228
+PROD1282,Nivea Serum,747.82,Nivea,India,Skin Care,2.51,119
+PROD1283,Nivea Serum,115.42,Nivea,India,Skin Care,2.55,273
+PROD1284,Nivea Moisturizer,636.57,Nivea,Germany,Skin Care,2.84,233
+PROD1285,Nivea Cleanser,812.07,Nivea,South Korea,Skin Care,3.69,357
+PROD1286,Nivea Cleanser,573.89,Nivea,South Korea,Skin Care,3.5,323
+PROD1287,Nivea Serum,857.52,Nivea,Germany,Skin Care,2.31,122
+PROD1288,Nivea Cleanser,424.54,Nivea,Germany,Skin Care,2.61,173
+PROD1289,Nivea Moisturizer,815.19,Nivea,Germany,Skin Care,3.84,179
+PROD1290,Nike Sandals,308.09,Nike,Germany,Calzado,1.03,268
+PROD1291,Nike Boots,228.97,Nike,China,Calzado,1.54,319
+PROD1292,Nike Boots,172.06,Nike,Germany,Calzado,2.05,106
+PROD1293,Nike Boots,94.25,Nike,India,Calzado,1.17,263
+PROD1294,Nike Boots,283.46,Nike,India,Calzado,3.6,290
+PROD1295,Nike Running Shoes,694.03,Nike,India,Calzado,3.36,432
+PROD1296,Nike Slippers,246.59,Nike,USA,Calzado,4.76,271
+PROD1297,Nike Sandals,796.13,Nike,USA,Calzado,3.06,471
+PROD1298,Adidas Boots,23.79,Adidas,South Korea,Calzado,2.99,179
+PROD1299,Adidas Running Shoes,149.37,Adidas,South Korea,Calzado,1.68,117
+PROD1300,Adidas Boots,503.27,Adidas,India,Calzado,3.9,303
+PROD1301,Adidas Sneakers,447.01,Adidas,China,Calzado,3.04,481
+PROD1302,Adidas Sneakers,238.8,Adidas,Japan,Calzado,1.49,350
+PROD1303,Adidas Slippers,752.36,Adidas,Germany,Calzado,2.26,331
+PROD1304,Adidas Running Shoes,890.46,Adidas,USA,Calzado,1.06,490
+PROD1305,Adidas Running Shoes,767.4,Adidas,South Korea,Calzado,2.56,349
+PROD1306,Reebok Slippers,760.98,Reebok,USA,Calzado,2.3,408
+PROD1307,Reebok Sneakers,339.36,Reebok,Japan,Calzado,1.29,169
+PROD1308,Reebok Sneakers,371.89,Reebok,South Korea,Calzado,4.23,401
+PROD1309,Reebok Slippers,336.44,Reebok,Japan,Calzado,1.21,361
+PROD1310,Reebok Boots,48.37,Reebok,Japan,Calzado,2.54,142
+PROD1311,Reebok Slippers,18.52,Reebok,Japan,Calzado,3.06,170
+PROD1312,Reebok Sneakers,52.57,Reebok,South Korea,Calzado,1.98,177
+PROD1313,Reebok Running Shoes,960.69,Reebok,Japan,Calzado,4.32,145
+PROD1314,Reebok Slippers,280.16,Reebok,India,Calzado,2.77,220
+PROD1315,Reebok Sneakers,246.9,Reebok,India,Calzado,4.8,354
+PROD1316,Puma Slippers,148.65,Puma,Japan,Calzado,3.15,177
+PROD1317,Puma Slippers,130.45,Puma,South Korea,Calzado,2.3,227
+PROD1318,Puma Sneakers,961.45,Puma,Germany,Calzado,4.8,342
+PROD1319,Puma Slippers,295.82,Puma,China,Calzado,3.06,461
+PROD1320,Puma Boots,67.98,Puma,USA,Calzado,2.98,440
+PROD1321,Puma Slippers,22.52,Puma,India,Calzado,2.87,111
+PROD1322,Puma Slippers,944.93,Puma,India,Calzado,2.69,331
+PROD1323,Puma Slippers,304.63,Puma,India,Calzado,2.38,424
+PROD1324,Puma Sandals,794.04,Puma,China,Calzado,4.17,202
+PROD1325,Puma Running Shoes,520.81,Puma,China,Calzado,1.34,209
+PROD1326,Puma Sandals,57.19,Puma,India,Calzado,2.16,113
+PROD1327,Puma Boots,721.42,Puma,India,Calzado,4.35,327
+PROD1328,Puma Running Shoes,293.83,Puma,South Korea,Calzado,3.84,103
+PROD1329,Skechers Running Shoes,584.31,Skechers,China,Calzado,2.82,148
+PROD1330,Skechers Slippers,616.57,Skechers,South Korea,Calzado,1.05,434
+PROD1331,Skechers Boots,634.58,Skechers,India,Calzado,3.46,391
+PROD1332,Skechers Sneakers,226.22,Skechers,USA,Calzado,4.33,430
+PROD1333,Skechers Sandals,319.93,Skechers,USA,Calzado,2.78,226
+PROD1334,Skechers Sneakers,161.14,Skechers,Germany,Calzado,1.38,191
+PROD1335,Skechers Sandals,679.95,Skechers,Germany,Calzado,4.63,188
+PROD1336,Skechers Boots,974.87,Skechers,India,Calzado,3.93,384
+PROD1337,Skechers Boots,455.17,Skechers,Japan,Calzado,1.27,134
+PROD1338,Skechers Boots,497.4,Skechers,South Korea,Calzado,2.41,427
+PROD1339,Skechers Running Shoes,780.73,Skechers,USA,Calzado,4.8,464
+PROD1340,Skechers Sandals,870.67,Skechers,China,Calzado,1.04,358
+PROD1341,Dell Monitor,723.77,Dell,USA,Computadoras,1.69,368
+PROD1342,Dell Mouse,959.37,Dell,Japan,Computadoras,2.62,320
+PROD1343,Dell Keyboard,196.94,Dell,India,Computadoras,4.74,495
+PROD1344,Dell Mouse,835.67,Dell,China,Computadoras,3.4,177
+PROD1345,Dell Keyboard,274.0,Dell,India,Computadoras,3.32,236
+PROD1346,Dell Laptop,211.71,Dell,USA,Computadoras,3.77,202
+PROD1347,Dell Desktop,611.03,Dell,China,Computadoras,2.3,463
+PROD1348,Dell Monitor,924.41,Dell,Germany,Computadoras,2.41,372
+PROD1349,HP Desktop,926.72,HP,South Korea,Computadoras,1.67,457
+PROD1350,HP Mouse,200.99,HP,India,Computadoras,2.62,248
+PROD1351,HP Monitor,64.79,HP,China,Computadoras,3.34,489
+PROD1352,HP Monitor,239.12,HP,China,Computadoras,1.04,466
+PROD1353,HP Mouse,985.19,HP,USA,Computadoras,3.6,133
+PROD1354,HP Monitor,901.85,HP,India,Computadoras,1.03,307
+PROD1355,HP Laptop,331.71,HP,USA,Computadoras,3.69,381
+PROD1356,HP Laptop,448.95,HP,Japan,Computadoras,3.36,273
+PROD1357,HP Laptop,201.54,HP,Japan,Computadoras,4.81,451
+PROD1358,HP Monitor,211.54,HP,Germany,Computadoras,1.53,431
+PROD1359,HP Laptop,47.69,HP,Japan,Computadoras,4.41,476
+PROD1360,HP Keyboard,706.52,HP,Germany,Computadoras,4.64,140
+PROD1361,Apple Mouse,349.55,Apple,India,Computadoras,3.23,454
+PROD1362,Apple Keyboard,595.86,Apple,India,Computadoras,4.66,237
+PROD1363,Apple Desktop,246.28,Apple,South Korea,Computadoras,2.05,134
+PROD1364,Apple Laptop,668.94,Apple,China,Computadoras,3.77,489
+PROD1365,Apple Laptop,712.99,Apple,Japan,Computadoras,2.19,200
+PROD1366,Apple Laptop,156.34,Apple,India,Computadoras,2.76,493
+PROD1367,Apple Laptop,895.96,Apple,Germany,Computadoras,3.58,305
+PROD1368,Apple Keyboard,540.51,Apple,Japan,Computadoras,2.41,219
+PROD1369,Apple Desktop,650.67,Apple,Germany,Computadoras,1.04,220
+PROD1370,Apple Laptop,382.48,Apple,USA,Computadoras,4.17,395
+PROD1371,Asus Keyboard,157.05,Asus,China,Computadoras,1.13,237
+PROD1372,Asus Mouse,377.29,Asus,South Korea,Computadoras,4.89,436
+PROD1373,Asus Mouse,302.41,Asus,India,Computadoras,4.37,268
+PROD1374,Asus Monitor,83.05,Asus,India,Computadoras,3.09,337
+PROD1375,Asus Mouse,200.91,Asus,South Korea,Computadoras,4.88,441
+PROD1376,Asus Monitor,357.04,Asus,Japan,Computadoras,3.22,163
+PROD1377,Asus Laptop,887.36,Asus,Japan,Computadoras,2.69,357
+PROD1378,Asus Mouse,338.68,Asus,Germany,Computadoras,2.86,482
+PROD1379,Asus Keyboard,274.52,Asus,India,Computadoras,1.45,100
+PROD1380,Asus Monitor,262.88,Asus,USA,Computadoras,2.35,212
+PROD1381,Asus Laptop,627.96,Asus,Germany,Computadoras,3.83,300
+PROD1382,Asus Desktop,53.6,Asus,China,Computadoras,3.2,470
+PROD1383,Acer Keyboard,425.26,Acer,Germany,Computadoras,3.46,320
+PROD1384,Acer Mouse,205.58,Acer,China,Computadoras,4.92,285
+PROD1385,Acer Mouse,852.96,Acer,India,Computadoras,4.08,317
+PROD1386,Acer Monitor,544.73,Acer,South Korea,Computadoras,2.61,259
+PROD1387,Acer Desktop,538.38,Acer,Japan,Computadoras,3.47,241
+PROD1388,Acer Desktop,733.65,Acer,Germany,Computadoras,1.21,275
+PROD1389,Acer Monitor,602.23,Acer,India,Computadoras,2.15,299
+PROD1390,Acer Laptop,707.69,Acer,USA,Computadoras,1.72,301
+PROD1391,Acer Laptop,35.29,Acer,Japan,Computadoras,2.61,308
+PROD1392,Acer Laptop,851.83,Acer,India,Computadoras,3.91,381
+PROD1393,Acer Desktop,106.1,Acer,South Korea,Computadoras,3.42,221
+PROD1394,Acer Laptop,733.11,Acer,South Korea,Computadoras,3.31,391
+PROD1395,Acer Desktop,454.33,Acer,China,Computadoras,3.35,375

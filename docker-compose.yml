@@ -1,0 +1,65 @@
+services:
+  postgres-db:
+    image: postgres:latest
+    container_name: postgres_container
+    environment:
+      POSTGRES_USER: proyectofinal123
+      POSTGRES_PASSWORD: proyectofinal123
+      POSTGRES_DB: ecommerce
+    volumes:
+      - ./postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./postgres/usuarios.csv:/docker-entrypoint-initdb.d/usuarios.csv
+      - ./postgres/cuentas_bancarias.csv:/docker-entrypoint-initdb.d/cuentas_bancarias.csv
+      - ./postgres/carrito_compras.csv:/docker-entrypoint-initdb.d/carrito_compras.csv
+      - ./postgres/inventario.csv:/docker-entrypoint-initdb.d/inventario.csv
+    ports:
+      - "5432:5432"
+  coordinator:
+    image: basho/riak-kv
+    ports:
+      - "8087"
+      - "8098"
+    environment:
+      - CLUSTER_NAME=riakkv
+    labels:
+      - "com.basho.riak.cluster.name=riak-kv"
+    volumes:
+      - ./schemas:/etc/riak/schemas
+    network_mode: bridge
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: proyectofinal123
+        MONGO_INITDB_ROOT_PASSWORD: proyectofinal123
+        MONGO_INITDB_DATABASE: proyecto_bases
+    ports:
+        - "27017:27017"
+    volumes:
+        - ./mongodb/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j_container
+    environment:
+      - NEO4J_AUTH=neo4j/proyectofinal123
+    volumes:
+      - neo4j_data:/data
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+  cassandra:
+    image: cassandra:latest
+    container_name: cassandra_container
+    ports:
+      - "9042:9042"
+    environment:
+      CASSANDRA_CLUSTER_NAME: "Test Cluster"
+      CASSANDRA_SEEDS: "cassandra"
+      MAX_HEAP_SIZE: "512M"
+      HEAP_NEWSIZE: "100M"
+    volumes:
+      - ./data:/var/lib/cassandra
+volumes:
+  schemas: {}
+  neo4j_data: {}
